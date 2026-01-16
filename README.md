@@ -5,13 +5,11 @@ It includes exercises and mini-projects completed throughout the semester.
 
 ## Project Structure
 
-The repository is organized by week and task:
-Week 1/
-Week 2/
-Week 3/
-...
-Task 1/ 
-
+The repository is organized by:
+Notebook
+Logbook
+Projects
+ 
 Each folder contains the corresponding Python scripts and solutions for that week's exercises.  
 
 ## Technologies Used
